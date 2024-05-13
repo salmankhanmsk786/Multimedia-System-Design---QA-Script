@@ -1,0 +1,2 @@
+_id,Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+660bb51e5a621bf49241b31d,1,2024-03-19 00:00:00,Adventure Select Screen,User clicked on the Adventures button from the main menu options.,User is able to click on the icons and buttons present on the screen.,"Nothing happens when user clicks on the Book and House icons in the upper right corner, or on the Deck Builder button in the lower left corner.",Yes,No,Yana Zaynullina

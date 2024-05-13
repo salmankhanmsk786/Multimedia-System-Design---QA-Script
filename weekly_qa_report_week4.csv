@@ -1,0 +1,6 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+1,"Use date you 
+tested on
+3/17/2024",UI ,I noticed that there is no logout botton in the game. Once im signed in how do i logout,Logout page to log the user out,No logout button found!,Yes,yes,Salman Khan
+2,2024-03-17 00:00:00,UI ,i noticed while in leaderboard screen. In the global ranking. It seem hard to read. Some words or letter are on top of another.,Expected to see clear writting. ,Overlapping of characters/words. Makes it hard to read,yes,No,Salman Khan
+3,2024-03-17 00:00:00,UI ,In the online players. when trying to add a friend. I see a bunch of players to add but they dont have a name or address. It is just in ID format. which makes it hard to tell which player it is. ,Expected to see players with names.,Saw a bunch of players with no name or address. Just a random ID,yes,yes,Salman Khan

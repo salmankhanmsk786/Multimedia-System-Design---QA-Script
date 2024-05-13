@@ -1,0 +1,17 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+1,"Use date you 
+tested on
+2/25/2024",Internet connection,High latency issue for me because of bad internet connection on my end i believe i recieved latency of 6000 so the game was hard to play. I played in web browser.,Smother run time game experience,High latency ,Yes,Not sure,"Your name
+Salman Khan"
+2,2025-02-25 00:00:00,UI ,"in game tutorial, i noticed my player name was something like 0x86seg68... ",Expected name to be my login name that i had when i signed up,Random name like 0x6584hrd...,yes,not sure,Salman Khan
+1,"Use date you 
+tested on
+ 3/11/2024",UI ,In player profile view. The Player Frame does not show anything on click ,Expected to see something ,Did nothing on click ,Yes,yes,Salman Khan
+2,2025-03-11 00:00:00,UI ,i noticed while in setting menu that the X button on top right does not exit out.,Expected to exist out ,Did not exist on click ,yes,yes,Salman Khan
+3,2024-03-11 00:00:00,UI ,In player profile view. The Player Title does not show anything on click ,Expected to see something ,Did nothing on click ,yes,yes,Salman Khan
+4,2024-03-11 00:00:00,UI ,in player profile view. The player Banner button does nothing,Expected to see something ,Did not do anything ,yes ,yes,Salman Khan
+1,"Use date you 
+tested on
+3/17/2024",UI ,I noticed that there is no logout botton in the game. Once im signed in how do i logout,Logout page to log the user out,No logout button found!,Yes,yes,Salman Khan
+2,2024-03-17 00:00:00,UI ,i noticed while in leaderboard screen. In the global ranking. It seem hard to read. Some words or letter are on top of another.,Expected to see clear writting. ,Overlapping of characters/words. Makes it hard to read,yes,No,Salman Khan
+3,2024-03-17 00:00:00,UI ,In the online players. when trying to add a friend. I see a bunch of players to add but they dont have a name or address. It is just in ID format. which makes it hard to tell which player it is. ,Expected to see players with names.,Saw a bunch of players with no name or address. Just a random ID,yes,yes,Salman Khan

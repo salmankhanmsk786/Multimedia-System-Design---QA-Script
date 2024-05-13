@@ -1,0 +1,2 @@
+_id,Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+660bb51e5a621bf49241b559,1,2024-02-27 00:00:00,Game,Playing tutorial,Instruct us how to play as a beginner,Got kicked out the game mid tutorial,Yes,Yes,Andrew Gabriel

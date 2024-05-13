@@ -1,0 +1,6 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+1,"Use date you 
+tested on
+2/25/2024",Internet connection,High latency issue for me because of bad internet connection on my end i believe i recieved latency of 6000 so the game was hard to play. I played in web browser.,Smother run time game experience,High latency ,Yes,Not sure,"Your name
+Salman Khan"
+2,2025-02-25 00:00:00,UI ,"in game tutorial, i noticed my player name was something like 0x86seg68... ",Expected name to be my login name that i had when i signed up,Random name like 0x6584hrd...,yes,not sure,Salman Khan

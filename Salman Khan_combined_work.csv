@@ -1,0 +1,20 @@
+_id,Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner,Normalized Test Owner,Normalized Test Case,Normalized Build
+660bb51e5a621bf49241b441,1,"Use date you 
+ tested on
+ 3/17/2024",UI,I noticed that there is no logout botton in the game. Once im signed in how do i logout,Logout page to log the user out,No logout button found!,Yes,yes,Salman Khan,salman khan,i noticed that there is no logout botton in the game. once im signed in how do i logout,"use date you 
+ tested on
+ 3/17/2024"
+660bb51e5a621bf49241b442,2,2024-03-17 00:00:00,UI,i noticed while in leaderboard screen. In the global ranking. It seem hard to read. Some words or letter are on top of another.,Expected to see clear writting.,Overlapping of characters/words. Makes it hard to read,yes,No,Salman Khan,salman khan,i noticed while in leaderboard screen. in the global ranking. it seem hard to read. some words or letter are on top of another.,2024-03-17 00:00:00
+660bb51e5a621bf49241b443,3,2024-03-17 00:00:00,UI,In the online players. when trying to add a friend. I see a bunch of players to add but they dont have a name or address. It is just in ID format. which makes it hard to tell which player it is.,Expected to see players with names.,Saw a bunch of players with no name or address. Just a random ID,yes,yes,Salman Khan,salman khan,in the online players. when trying to add a friend. i see a bunch of players to add but they dont have a name or address. it is just in id format. which makes it hard to tell which player it is.,2024-03-17 00:00:00
+660bb51e5a621bf49241b59c,1,"Use date you 
+ tested on
+  3/11/2024",UI,In player profile view. The Player Frame does not show anything on click,Expected to see something,Did nothing on click,Yes,yes,Salman Khan,salman khan,in player profile view. the player frame does not show anything on click,"use date you 
+ tested on
+  3/11/2024"
+660bb51e5a621bf49241b59d,2,2025-03-11 00:00:00,UI,i noticed while in setting menu that the X button on top right does not exit out.,Expected to exist out,Did not exist on click,yes,yes,Salman Khan,salman khan,i noticed while in setting menu that the x button on top right does not exit out.,2025-03-11 00:00:00
+660bb51e5a621bf49241b59e,3,2024-03-11 00:00:00,UI,In player profile view. The Player Title does not show anything on click,Expected to see something,Did nothing on click,yes,yes,Salman Khan,salman khan,in player profile view. the player title does not show anything on click,2024-03-11 00:00:00
+660bb51e5a621bf49241b59f,4,2024-03-11 00:00:00,UI,in player profile view. The player Banner button does nothing,Expected to see something,Did not do anything,yes,yes,Salman Khan,salman khan,in player profile view. the player banner button does nothing,2024-03-11 00:00:00
+660bb51e5a621bf49241b73f,1,2024-02-25 00:00:00,Internet connection,High latency issue for me because of bad internet connection on my end i believe i recieved latency of 6000 so the game was hard to play. I played in web browser.,Smother run time game experience,High latency,Yes,Not sure,"Your name
+ Salman Khan","your name
+ salman khan",high latency issue for me because of bad internet connection on my end i believe i recieved latency of 6000 so the game was hard to play. i played in web browser.,2024-02-25 00:00:00
+660bb51e5a621bf49241b740,2,2025-02-25 00:00:00,UI,"in game tutorial, i noticed my player name was something like 0x86seg68...",Expected name to be my login name that i had when i signed up,Random name like 0x6584hrd...,yes,not sure,Salman Khan,salman khan,"in game tutorial, i noticed my player name was something like 0x86seg68...",2025-02-25 00:00:00

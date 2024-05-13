@@ -1,0 +1,2 @@
+_id,Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+660bb51e5a621bf49241b794,3,2024-02-22 00:00:00,Game (Training Mode),AI oppoenent attacks dynamically.,AI opponent will attack in a mathematically efficent way to best win the game.,AI opponent will only attack from left to right (user POV).,Yes,No,Jason Ross

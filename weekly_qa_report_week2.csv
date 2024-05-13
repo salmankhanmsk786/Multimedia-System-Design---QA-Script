@@ -1,0 +1,7 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+1,"Use date you 
+tested on
+ 3/11/2024",UI ,In player profile view. The Player Frame does not show anything on click ,Expected to see something ,Did nothing on click ,Yes,yes,Salman Khan
+2,2025-03-11 00:00:00,UI ,i noticed while in setting menu that the X button on top right does not exit out.,Expected to exist out ,Did not exist on click ,yes,yes,Salman Khan
+3,2024-03-11 00:00:00,UI ,In player profile view. The Player Title does not show anything on click ,Expected to see something ,Did nothing on click ,yes,yes,Salman Khan
+4,2024-03-11 00:00:00,UI ,in player profile view. The player Banner button does nothing,Expected to see something ,Did not do anything ,yes ,yes,Salman Khan
